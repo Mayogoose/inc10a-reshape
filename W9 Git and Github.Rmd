@@ -1,0 +1,17 @@
+---
+title: "W9 Git and Github"
+author: "Meiyao Li"
+date: "2023-11-28"
+output: html_document
+---
+Motivation: 
+- People email code, have dozens of ver of the same file, no structured way to backing up works if computer crash
+- Git and GitHub are the industry standards for the family of tasks known as version control. Being able to manage changes to your code and share it with others is one of the most important technical skills a programmer can learn
+
+## What is git and version control?
+VC, also called revision control (RC) is a system that let you time travel and access previous versions. 
+
+More complex than track changes in google doc! 
+- `git commit`
+
+But cooler!
